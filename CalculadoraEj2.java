@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author Johan David Auilar Cardenas
  */
-public class calculadoraEj2 {
+public class CalculadoraEj2 {
     public static void main (String [] args) {
         Scanner teclado = new Scanner(System.in);
         int num1, num2;
