@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Johan David Auilar Cardenas
+ * @author Johan David Aguilar Cardenas
  */
 public class ContraseniaEj8 {
     public static void main(String[] args) {
